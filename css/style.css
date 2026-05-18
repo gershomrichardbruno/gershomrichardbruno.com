@@ -9705,9 +9705,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
 .hero-image{
     background-repeat: no-repeat;
-    background-size: 85%;
-    background-position: right 30px bottom;
-    margin-bottom: 120px;
+    background-size: 95%;
+    background-position: right bottom;
+    transform: translateY(-100px);
 }
