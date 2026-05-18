@@ -9705,10 +9705,7 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-/* Hero image alignment fix */
-
 .hero-image{
-    background-image: url('../images/bg_1.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right bottom;
